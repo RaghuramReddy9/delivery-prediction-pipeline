@@ -1,0 +1,11 @@
+pyspark==3.5.1
+boto3
+pandas
+numpy
+scikit-learn
+fastapi
+uvicorn
+python-dotenv
+streamlit
+joblib
+pyarrow

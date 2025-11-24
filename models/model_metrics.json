@@ -1,0 +1,17 @@
+{
+    "MAE":{
+        "linear_regression":0.2282467701,
+        "decision_tree":25.1673048383,
+        "random_forest":2.444356088
+    },
+    "RMSE":{
+        "linear_regression":0.280089168,
+        "decision_tree":29.1582107391,
+        "random_forest":3.3037906061
+    },
+    "R2":{
+        "linear_regression":0.9999999766,
+        "decision_tree":0.9997465875,
+        "random_forest":0.9999967466
+    }
+}

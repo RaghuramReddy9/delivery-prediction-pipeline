@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+logs/
+*.log
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/
+
+# Model artifacts
+models/*.joblib
+models/*.pkl
+
+# Local data
+data_lake/raw/*
+data_lake/processed/*
+data_lake/analytics/*
+data_lake/model/*
+
+# Secrets
+.env
+*.env
+
+# VSCode
+.vscode/
+
+# Parquet files (optional)
+*.parquet
+
+# FastAPI reload cache
+*.sqlite3
